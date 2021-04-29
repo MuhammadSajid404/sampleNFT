@@ -2,25 +2,147 @@
 {
     "tokens": [
         {
-            "id": 0,
-            "description": "My NFT",
-            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-            "name": "My NFT 0"
-        },
-        {
             "id": 1,
-            "description": "My NFT",
-            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-            "name": "My NFT 1"
+            "name": "Labrador Retriever",
+            "AKC Breed Popularity": "Ranks 1 of 197",
+            "Height": "22.5-24.5 inches (male), 21.5-23.5 inches (female)",
+            "Weight": "65-80 pounds (male), 55-70 pounds (female)",
+            "Life Expectancy": "10-12 years",
+            "Group": "Sporting Group" 
         },
         {
             "id": 2,
-            "description": "My NFT",
-            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-            "name": "My NFT 2"
+           "name": "German Shepherd Dog",
+           "AKC Breed Popularity": "Ranks 2 of 197",
+           "Height": "24-26 inches (male), 22-24 inches (female)",
+           "Weight": "65-90 pounds (male), 50-70 pounds (female)",
+           "Life Expectancy": "12-14 years",
+           "Group": "Herding Group"
+        },
+        {
+            "id": 3,
+            "name": "Golden Retriever",
+            "AKC Breed Popularity": "Ranks 3 of 197",
+            "Height": "23-24 inches (male), 21.5-22.5 inches (female)",
+            "Weight": "65-75 pounds (male), 55-65 pounds (female)",
+            "Life Expectancy": "10-12 years",
+            "Group": "Sporting Group"
+        },
+        {
+            "id": 4,
+            "AKC Breed Popularity": "Ranks 4 of 197",
+            "Height": "11-13 inches",
+            "Weight": "under 28 pounds",
+            "Life Expectancy": "10-12 years",
+            "Group": "Non-Sporting Group"
+        },
+        {
+            "id": 5,
+            "name": "Bulldog",
+            "AKC Breed Popularity": "Ranks 5 of 197",
+            "Height": "14-15 inches",
+            "Weight": "50 pounds (male), 40 pounds (female)",
+            "Life Expectancy": "8-10 years",
+            "Group": "Non-Sporting Group" 
+        },
+        {
+            "id": 6,
+            "name": "Beagle",
+            "AKC Breed Popularity": "Ranks 6 of 197",
+            "Height": "13 inches & under, 13-15 inches",
+            "Weight": "under 20 pounds (13 inches & under), 20-30 pounds (13-15 inches)",
+            "Life Expectancy": "10-15 years",
+            "Group": "Hound Group" 
+        },
+        {
+            "id": 7,
+            "name": "Poodle",
+            "AKC Breed Popularity": "Ranks 7 of 197",
+            "Height": "Over 15 inches (standard)",
+            "Weight": "60-70 pounds (male), 40-50 pounds (female)",
+            "Life Expectancy": "10-18 years",
+            "Group": "Non-Sporting Group" 
+        },
+        {
+            "id": 8,
+            "name": "Rottweiler",
+            "AKC Breed Popularity": "Ranks 8 of 197",
+            "Height": "24-27 inches (male), 22-25 inches (female)",
+            "Weight": "95-135 pounds (male), 80-100 pounds (female)",
+            "Life Expectancy": "9-10 years",
+            "Group": "Working Group" 
+        },
+        {
+            "id": 9,
+            "name": "German Shorthaired Pointer",
+            "AKC Breed Popularity": "Ranks 9 of 197",
+            "Height": "23-25 inches (male), 21-23 inches (female)",
+            "Weight": "55-70 pounds (male), 45-60 pounds (female)",
+            "Life Expectancy": "10-12 years",
+            "Group": "Sporting Group"
+        },
+        {
+            "id": 10,
+            "name": "Yorkshire Terrier",
+            "AKC Breed Popularity": "Ranks 10 of 197",
+            "Height": "7-8 inches",
+            "Weight": "7 pounds",
+            "Life Expectancy": "11-15 years",
+            "Group": "Toy Group"
+        },
+        {
+            "id": 11,
+            "name": "Boxer",
+            "AKC Breed Popularity": "Ranks 11 of 197",
+            "Height": "23-25 inches (male), 21.5-23.5 inches (female)",
+            "Weight": "65-80 pounds (male), females are about 15 pounds less than male",
+            "Life Expectancy": "10-12 years",
+            "Group": "Working Group" 
+        },
+        {
+            "id": 12,
+            "name": "Dachshund",
+            "AKC Breed Popularity": "Ranks 12 of 197",
+            "Height": "8-9 inches (standard), 5-6 inches (miniature)",
+            "Weight": "16-32 pounds (standard), 11 pounds & under (miniature)",
+            "Life Expectancy": "12-16 years",
+            "Group": "Hound Group" 
+        },
+        {
+            "id": 13,
+            "name": "Pembroke Welsh Corgi",
+            "AKC Breed Popularity": "Ranks 13 of 197",
+            "Height": "10-12 inches",
+            "Weight": "up to 30 pounds (male), up to 28 pounds (female)",
+            "Life Expectancy": "12-13 years",
+            "Group": "Herding Group"
+        },
+        {
+            "id": 14,
+            "name": "Siberian Husky",
+            "AKC Breed Popularity": "Ranks 14 of 197",
+            "Height": "21-23.5 inches (male), 20-22 inches (female)",
+            "Weight": "45-60 pounds (male), 35-50 pounds (female)",
+            "Life Expectancy": "12-14 years",
+            "Group": "Working Group"
+        },
+        {
+            "id": 15,
+            "name": "Australian Shepherd",
+            "AKC Breed Popularity": "Ranks 17 of 197",
+            "Height": "20-23 inches (male), 18-21 inches (female)",
+            "Weight": "50-65 pounds (male), 40-55 pounds (female)",
+            "Life Expectancy": "12-15 years",
+            "Group": "Herding Group"  
+        },
+        {
+            "id": 16,
+            "name": "Great Dane",
+            "AKC Breed Popularity": "Ranks 16 of 197",
+            "Height": "30-32 inches (male), 28-30 inches (female)",
+            "Weight": "140-175 pounds (male), 110-140 pounds (female)",
+            "Life Expectancy": "7-10 years",
+            "Group": "Working Group" 
         }
     ]
 }
